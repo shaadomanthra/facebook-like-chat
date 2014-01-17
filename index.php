@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -11,23 +10,21 @@
 
     <title>Facebook like chat</title>
     <link href="style.css" rel="stylesheet">
-	<script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
-	<script src="script.js"></script>
-
-	</head>
-
+    <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+    <script src="script.js"></script>
+  </head>
   <body>
   
   <div class="chat_box">
 	<div class="chat_head"> Chat Box</div>
 	<div class="chat_body"> 
-		<div class="user"> Krishna Teja</div>
+	<div class="user"> Krishna Teja</div>
 	</div>
   </div>
 
 <div class="msg_box" style="right:290px">
 	<div class="msg_head">Krishna Teja
-		<div class="close">x</div>
+	<div class="close">x</div>
 	</div>
 	<div class="msg_wrap">
 		<div class="msg_body">
@@ -36,11 +33,8 @@
 			<div class="msg_a">Wow, Thats great to hear from you man </div>	
 			<div class="msg_push"></div>
 		</div>
-		<div class="msg_footer"><textarea class="msg_input" rows="4"></textarea></div>
-	</div>
+	<div class="msg_footer"><textarea class="msg_input" rows="4"></textarea></div>
 </div>
-
-
-  
-  </body>
+</div>
+</body>
 </html>
