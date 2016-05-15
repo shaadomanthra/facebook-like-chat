@@ -116,6 +116,7 @@ body{
 	position:relative;
 	margin-left:10px;
 	border-radius:5px;
+	word-wrap: break-word;
 }
 .msg_b:after{
 	content:"";
