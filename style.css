@@ -16,6 +16,7 @@ body{
 	background:white;
 	height:400px;
 	padding:5px 0px;
+	overflow-y: auto;
 }
 
 .chat_head,.msg_head{
